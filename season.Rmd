@@ -1,0 +1,10 @@
+---
+title: "season"
+output: html_document
+date: "2022-07-26"
+---
+
+# Interpretation of the Seasonal Plot 
+
+Monthly souvenir sales for a vendor over a number of years are seen in the above seasonal time series plot. One can notice a seasonality in the data: sales tended to be at their highest for all years during the months in which the winter holidays occur. Year to year, sales tend to increase, but for each year, the story is much the same up until Q4, during which the vendor sees linearly increasingly sales and does tremendously well relative to the other quarters; if ever there were a quintessential real-life plot depicting “skyrocketing sales”, this would be it!
+

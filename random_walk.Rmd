@@ -1,0 +1,9 @@
+---
+title: "rw_plot"
+output: html_document
+date: "2022-08-07"
+---
+
+# The Random Walk Model  
+
+Whenever the time series data follow a random walk, the Naive model can be employed (termed also a Random Walk model). For a random walk, the current observation is equal to the previous observation with a step randomly up, or down. It is related to a White Noise series in that it composes a sum of elements from a discrete white noise series. 

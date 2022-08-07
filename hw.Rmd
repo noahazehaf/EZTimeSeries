@@ -1,0 +1,9 @@
+---
+title: "holtwinters"
+output: html_document
+date: "2022-08-07"
+---
+
+# The Holt-Winters Model  
+
+As an analyst focusing on time series, you are endowed with a toolbox, and each tool within that tool box enables you to tackle a host of issues, depending on the nature of your issue. Say you are dealing with highly seasonal data; what to do? Holt-Winters answered this call with their seasonal method. There is a forecast equation in addition to three smoothing equations in this approach (for level, trend, and seasonal components). Actually, there are two common variations on this method, termed additive and multiplicative. The additive method is employed here, where the seasonal component is expressed in absolute terms and the series is adjusted for seasonality by subtracting off the seasonal component. 

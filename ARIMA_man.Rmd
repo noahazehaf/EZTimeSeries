@@ -1,0 +1,9 @@
+---
+title: "ARIMA_man"
+output: html_document
+date: "2022-08-07"
+---
+
+# The ARIMA Model (With Manual Parameters) 
+
+The idea behind this model is the exact same as the previous model. The difference is that you, the user, can now manually input the values for p, d, and q. There are values that are already input for these parameters, but you can change them yourself by either manually entering them into the numeric input boxes, or by clicking the up or down arrows in this boxes to increase or decrease these values. 

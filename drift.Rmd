@@ -1,0 +1,9 @@
+---
+title: "drift"
+output: html_document
+date: "2022-08-07"
+---
+
+# The Drift Model  
+
+You may be somewhat familiar with the Naive method, but what happens if we wish to allow the forecasts to increase or decrease over time? Enter the Drift model, where the average change over time is set to be the average change in the historical data. You may think of it more simply as a line drawn between the first and last observation points--and using the resulting line to predict into the future. This model is incredibly simple in its construction, but may again prove useful in certain scenarios; similar to the Mean model, it may be useful for benchmarking purposes, as well. 

@@ -1,0 +1,16 @@
+---
+title: "introduction"
+output: html_document
+date: "2022-07-26"
+---
+# All about E-Z Time Series 
+
+Hello! As data analysts, we often think to ourselves: why should displaying time series data be difficult? Here at E-Z Time Series, we think that it shouldn't be. That's why we've created a fluid, easy-to-use interface that allows you to quickly and easily display time series data without any of the hassle or worry that comes along with programming. Choose from four different options that allow you to view different aspects of time series data, in addition to resources for further exploration.
+
+E-Z Time Series is painless to use. For your convenience, we have designed the demo model such that it is only able to display data from a specific dataset (in this case, data that explores a shop's sales of souvenirs from the years 1988 to 1994). To view the time series plot for this data, navigate to the 'Time Series' option, located in the sidebar on the left.
+
+Likewise, use the 'Decomposition', 'Seasonal' and 'Autocorrelation' options in the sidebar menu to view the decomposition, seasonal, and autocorrelation plots for this dataset, respectively. Revel in the rainbow of colors in the seasonal plot, or awe yourself repeatedly by perusing the decomposition plot. The world is your oyster! 
+
+We have added additional options, so that users can now view forecasting models for the data in addition to the options already discussed above. Users can choose from a medley of models, including the Random Walk, Seasonal Naive, Mean, Drift, Exponential Smoothing, Holt-Winters, and ARIMA models--there is even an option for users to manually enter parameters for the ARIMA model! We are confident that these features will serve to make learning time series analysis a simple and painless experience. The visuals on the application have also been adjusted for optimum read-ability (no more bright white visuals). 
+
+Stop making time series analysis difficult, and get back to things that matter most to you. 

@@ -1,0 +1,9 @@
+---
+title: "autocor"
+output: html_document
+date: "2022-07-26"
+---
+
+# Interpretation of the Autocorrelation Plot 
+
+The autocorrelation plot displays the linear relationship between lagged values of a given time series. As expected, because the data is seasonal, the autocorrelations are larger for seasonal lags (at 12, because of the monthly period) than for other lags. There are about 4 lags in the plot with autocorrelation values that are statistically different from zero: one at 1, one at 2, and one at 3, and another at 12. 

@@ -1,0 +1,9 @@
+---
+title: "ets"
+output: html_document
+date: "2022-08-07"
+---
+
+# The Exponential Smoothing Model  
+
+When the data has no clear trend or seasonal pattern, what can you do? You may find the Simple Exponential Smoothing Model to be of some use. In this more advanced method of forecasting, forecasts are calculated using weighted averages, and these weights will decrease exponentially as the observations are derived from farther in the past (you can infer from this that the smallest weights are given to the oldest observations). A smoothing parameter named alpha determines the rate at which the weights decrease. 

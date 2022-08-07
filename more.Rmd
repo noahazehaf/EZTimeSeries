@@ -1,0 +1,14 @@
+---
+title: "links"
+output: html_document
+date: "2022-07-26"
+---
+## View links here for further education on time series analysis. 
+
+[The textbook from which the data was obtained, Forecasting: Principles and Practice, by Hyndman and Athanasopoulos. This book contains great resources for learning time series analysis, as well as useful code and data so that you can get to doing time series analysis sooner rather than later.](https://otexts.com/fpp3/)
+
+[We would be remiss not to also include a link to the National Institute of Standards and Technology's page for learning the basics of time series analysis, which provides a great primer before diving into the above textbook.](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
+
+<center>
+© 2022, Osman Analytica. 
+</center>

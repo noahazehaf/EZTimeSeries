@@ -1,0 +1,9 @@
+---
+title: "mean"
+output: html_document
+date: "2022-08-07"
+---
+
+# The Mean Model
+
+If the forecasts of all future values are equal to the mean of the historical data, we have what is called a mean model. There is little else to say about to say about this sort of model, since it is relatively simple in its construction. However, it can sometimes perform remarkably well, or serve as a useful benchmark against other more advanced models. 

@@ -1,0 +1,9 @@
+---
+title: "time"
+output: html_document
+date: "2022-07-26"
+---
+
+# Interpretation of the Time Series Plot 
+
+This time series plot displays a shop’s sales of souvenirs from 1988 to 1994. There is a clear pattern in the data, which is that sales tend to peak in the month of December (though this is not made explicit by the included plot, it is the most likely reason for the annual peaks). Though sales tend to remain at the same stable baseline for most years, sales in the month of December exhibit sharp peaks for all years, which become only larger in magnitude with each year. 

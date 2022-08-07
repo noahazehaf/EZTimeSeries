@@ -1,0 +1,8 @@
+---
+title: "decomp"
+output: html_document
+date: "2022-07-26"
+---
+
+# Interpretation of the Decomposition Plot 
+The above plot is essentially what the name suggests it is: it is a decomposition of the time series data into its three components. The first of these components is the trend-cycle component, termed the "trend" component for simplicity. The second of these components is the seasonal component, and the third is the remainder component. The plot shows that the trend component changes little over time until around 1992; the seasonal component, which is the largest of the three changes slowly year-to-year, with most peaks occuring near the year's end. The remainder component is among the smallest of the components--it is, as its name suggests, what is "left-over", and shows some variability from year to year in the data. 

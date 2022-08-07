@@ -1,0 +1,9 @@
+---
+title: "ARIMA"
+output: html_document
+date: "2022-08-07"
+---
+
+# The ARIMA Model 
+
+The ARIMA family of models is by far one of the most popular contemporary methods in forecasting. Differencing combined with autoregression plus a moving average model leaves us with a non-seasonal ARIMA model. The ARIMA model takes input parameters (p,d,q), where p = the order of the autoregression, d = the degree of the first differencing involved, and q = the degree of the first moving average part. The values for p,d, and q have here been chosen automatically, using a variation of the Hyndman-Khandakar algorithm. 

@@ -1,0 +1,9 @@
+---
+title: "season_naive"
+output: html_document
+date: "2022-08-07"
+---
+
+# The Seasonal Naive Model
+
+Included in the above plot are the forecasts for what is called a Seasonal Naive Model. It is similar to the regular Naive model, but differs in that each forecast is set to be equal to the last observed value from the same season. This method works reasonably well, given the seasonality of the data.  
